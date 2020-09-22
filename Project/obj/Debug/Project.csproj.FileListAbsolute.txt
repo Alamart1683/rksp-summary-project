@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\Project.dll.config
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\Project.dll
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\Project.pdb
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\DataAccessTier.dll
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\DataEntityTier.dll
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\DataAccessTier.pdb
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\DataAccessTier.dll.config
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\bin\Debug\DataEntityTier.pdb
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\obj\Debug\Project.dll
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\Project\obj\Debug\Project.pdb

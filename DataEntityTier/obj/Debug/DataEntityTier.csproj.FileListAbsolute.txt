@@ -1,0 +1,6 @@
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\DataEntityTier\bin\Debug\DataEntityTier.dll
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\DataEntityTier\obj\Debug\DataEntityTier.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\DataEntityTier\obj\Debug\DataEntityTier.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\DataEntityTier\obj\Debug\DataEntityTier.dll
+C:\Users\MSI\source\repos\RKSP_lr4 (NTierWalkthrough)\DataEntityTier\obj\Debug\DataEntityTier.pdb
